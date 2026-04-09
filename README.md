@@ -1,4 +1,4 @@
-# chinese-glossary
+# dse-chinese-glossary
 A structured JSON database of the 12 Prescribed Passages (十二篇範文) for the HKDSE Chinese Language Paper 1
 
 This repo is specifically designed to tackle the "Classical-to-Modern" translation questions (the first 2-3 questions in Section A) by mapping specific keywords from the texts to their expected marking-scheme definitions.
